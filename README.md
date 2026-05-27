@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Java-ATM-System
-GUI-based ATM Banking System developed using Java Swing with login authentication, deposit, withdraw, and balance check features.
-=======
+
 # Snake Game Deluxe
 
 An advanced Snake Game developed using Java Swing featuring multiplayer support, dynamic levels, speed control, pause/resume system, high-score persistence, themes, obstacle mechanics, animations, sound effects, and leaderboard integration.
