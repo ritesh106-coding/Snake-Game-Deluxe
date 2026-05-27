@@ -1,0 +1,2 @@
+Player: om
+High Score: 3
